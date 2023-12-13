@@ -10,3 +10,15 @@
  * Running on http://127.0.0.1:5000
  * Running on http://192.168.254.121:5000
 2023-12-13 15:31:06,680 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-12-13 16:14:15,996 - __main__ - ERROR - Database connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2023-12-13 16:14:16,012 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.121:5000
+2023-12-13 16:14:16,012 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-12-13 16:20:03,035 - __main__ - ERROR - Database connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2023-12-13 16:20:03,051 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.121:5000
+2023-12-13 16:20:03,051 - werkzeug - INFO - [33mPress CTRL+C to quit[0m

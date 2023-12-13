@@ -59,4 +59,4 @@ jobs:
           app-name: 'APIproj'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_61B7C4DCD6354A1DAEC5B5CCDC48E424 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8EF90CD7C7184EBCBA10467E98B54A5A }}

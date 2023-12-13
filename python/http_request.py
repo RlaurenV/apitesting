@@ -4,8 +4,7 @@ import mysql.connector
 import logging
 
 app = Flask(__name__)
-
-
+#test
 
 # Configure logging
 logging.basicConfig(
